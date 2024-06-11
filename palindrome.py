@@ -3,7 +3,7 @@ n=int(input("Enter n value"))
 rev=0
 
 temp=n
-#sameer
+#sameer_5500
 while(n>0):
     
     rem=n%10
